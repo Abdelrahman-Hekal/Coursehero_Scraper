@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "coursehero_Scraper", "coursehero_Scraper.pyproj", "{6469A400-3EB0-485A-847F-1EF56523ADDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6469A400-3EB0-485A-847F-1EF56523ADDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6469A400-3EB0-485A-847F-1EF56523ADDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBF5DF8-C29B-4A31-8FEC-F82B23352DD5}
+	EndGlobalSection
+EndGlobal
